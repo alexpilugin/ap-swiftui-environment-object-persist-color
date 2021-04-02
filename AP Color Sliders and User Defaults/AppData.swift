@@ -27,6 +27,6 @@ class AppData: ObservableObject {
     }
     
     var color: Color {
-        return Color(red: self.red / 255, green: self.green / 255, blue: self.blue/255)
+        return Color(red: self.red / 255, green: self.green / 255, blue: self.blue / 255)
     }
 }

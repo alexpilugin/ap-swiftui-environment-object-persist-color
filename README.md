@@ -1,6 +1,6 @@
 # ap-swiftui-environment-object-persist-color
 
-My solution of keeping selected SwiftUI Color in Persistent Memory using EnvironmentObject
+My solution of keeping selected SwiftUI Color in Persistent Memory using EnvironmentObject and UserDefaults
 
 ## Screenshots
 
