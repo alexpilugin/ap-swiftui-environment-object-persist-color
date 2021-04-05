@@ -4,4 +4,4 @@ My solution of keeping selected SwiftUI Color in Persistent Memory using Environ
 
 ## Screenshots
 
-![screenshot.png](https://github.com/alexpilugin/ap-swiftui-environment-object-persist-color/blob/main/screenshots/Screenshot.png "screenshot.png") 
+![screenshot2.png](https://github.com/alexpilugin/ap-swiftui-environment-object-persist-color/blob/main/screenshots/Screenshot2.png "screenshot2.png") 

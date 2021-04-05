@@ -21,6 +21,7 @@ struct ContentView: View {
             Text("Red: \(self.appData.red, specifier: "%.0f")").font(.title)
             Text("Green: \(self.appData.green, specifier: "%.0f")").font(.title)
             Text("Blue: \(self.appData.blue, specifier: "%.0f")").font(.title)
+            Text("HEX: \(self.appData.hex)").font(.title)
             
             Slider(value: self.$appData.red, in: 0...255, step: 1).accentColor(Color.red)
             Slider(value: self.$appData.green, in: 0...255, step: 1).accentColor(Color.green)
